@@ -12,17 +12,17 @@
 - Clock polarity and phase setup
 - Full-duplex data transfer using SSPBUF
 
-# ✅ I2C
+#✅ I2C
 - START, STOP, ACK/NACK sequencing
 - Master mode configuration
 - External EEPROM interfacing
   
-# ✅ Timers & Interrupts
+#✅ Timers & Interrupts
 - Timer0 / Timer1 configuration
 - Interrupt flag handling
 - Time-based task execution
 
-# ✅ Memory
+#✅ Memory
 - Internal EEPROM read/write sequencing
 - External EEPROM using I2C
 

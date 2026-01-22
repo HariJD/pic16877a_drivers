@@ -1,7 +1,7 @@
 
 ## 🧩 Implemented Peripherals
 
-# ✅ UART (USART)
+#✅ UART (USART)
 - Baud rate configuration
 - TX/RX enable and status flag handling
 - Polling-based data transmission
@@ -17,16 +17,16 @@
 - Master mode configuration
 - External EEPROM interfacing
   
-### ✅ Timers & Interrupts
+# ✅ Timers & Interrupts
 - Timer0 / Timer1 configuration
 - Interrupt flag handling
 - Time-based task execution
 
-### ✅ Memory
+# ✅ Memory
 - Internal EEPROM read/write sequencing
 - External EEPROM using I2C
 
-### ✅ CAN (Basic Node Communication)
+#✅ CAN (Basic Node Communication)
 - Node-based communication structure
 - Message transfer validation
 
